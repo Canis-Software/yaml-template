@@ -1,3 +1,5 @@
 remote_theme: mmistakes/minimal-mistakes
 title: Yaml Template System
 description: Placehold
+plugins:
+  - jekyll-include-cache
